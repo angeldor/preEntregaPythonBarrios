@@ -1,21 +1,21 @@
-#Base de datos de Universidad con Django
+# Base de datos de Universidad con Django
 
 Este proyecto es una base de datos comtemplada en la pagina /admin de Django
 
-##Características
+## Características
 
 - Se pueden agregar y eliminar Carreras, Estudiantes, y Cursos
 - Se puede obtener una lista de los distintos tipos de Cursos, Estudiantes, Carreras y Matriculas
 - Usa la interfaz por defecto de Django
 
-##Tecnologías usadas
+## Tecnologías usadas
 
 - Django
 - Python
 - HTML
 - CSS
 
-##Instalación
+## Instalación
 
 1. Instala las dependencias necesarias:
 `pip install -r requirements.txt`
@@ -27,11 +27,8 @@ Este proyecto es una base de datos comtemplada en la pagina /admin de Django
 5. Inicia el servidor:
 `python manage.py runserver`
 
-##Uso
-Para acceder al blog, abre tu navegador y navega a la siguiente URL:
-`http://localhost:8000`
+## Uso
 
-###Ejemplos
 Para entrar a la pagina, ve a la siguiente URL:
 `http://localhost:8000/admin/`
 
